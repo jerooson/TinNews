@@ -1,1 +1,1 @@
-# TinNews
+# tinnews
